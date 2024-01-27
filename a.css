@@ -1,0 +1,207 @@
+*{
+    padding: 5px 9px;
+  
+}
+body{
+    background-color: rgb(31, 29, 29);
+}
+
+.box2 {
+    display: flex;
+    position: relative;
+    left: 700px;
+    bottom: 90px;
+    cursor: pointer;
+    
+}
+
+
+.boxe {
+    padding: 10px;
+    font-size: larger;
+    font-weight: 600;
+    color: rgb(5, 5, 10);
+     margin: 6px;
+     border: 2px solid white;
+     border-radius: 25px;
+     color: beige;
+     border-color: aqua;
+
+}
+.boxe:hover{
+    background-color: rgb(87, 87, 194);
+}
+
+h1 {
+    color: rgb(16, 16, 194);
+    font-weight: 900;
+    position: relative;
+    left: 120px;
+    text-align: justify;
+}
+
+.ashu {
+    font-size: xx-large;
+}
+h2{
+    color: bisque;
+}
+
+h3 {
+    color: blue;
+    font-weight: bolder;
+    font-size: larger;
+    font-size: x-large;
+}
+
+.hire {
+    position: relative;
+    top: 100px;
+    border: 2px solid;
+    width: 80px;
+    border-radius: 25px;
+    padding: 1px px;
+  align-items: center;
+  cursor: pointer;
+  background-color: rgb(43, 43, 184);
+  color: azure;
+}
+.hire:hover{
+    background-color: rgb(12, 116, 47);
+}
+.up{
+    font-size: x-large;
+    color: brown;
+}
+.image img{
+    width: 25vw; 
+    position: relative;
+    left: 900px;
+   bottom: 500px;
+   border-radius: 50px 250px;
+   border-color: rgb(11, 71, 182);
+   filter: brightness(110%);
+
+}
+
+.box4{
+    position: relative;
+   top: 100px;
+}
+.boxes{
+    display: flex;
+    position: relative;
+    bottom: 250px;
+    width: 200px;
+    border: 5px solid;
+   width: 1370px;
+   height: 2000px;
+   border-color: aqua;
+   border-radius: 20px;
+   margin: 0px;
+   
+   
+  
+  
+    
+}
+
+.boxes img{
+    width: 200px;
+    margin: 100px;
+    border: 2px solid;
+    padding: 2px 10px 200px 10px;
+    border-radius: 25px;
+    background-blend-mode: color-burn;
+    background-color: black;
+    border-color: rgb(15, 196, 196);
+    box-shadow: none;
+   
+    
+    
+}
+button{
+    background-color: rgb(139, 230, 230);
+   width: 120px;
+   margin: 50px;
+   position: relative;
+   bottom: 220px;
+   left: 100px;
+   border-radius: 20px;
+}
+button:hover{
+    background-color: rgb(226, 43, 89);
+    cursor: pointer;
+}
+.cap{
+    position: relative;
+    bottom: 320px;
+    left: 600px;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: unset;
+    color: rgb(164, 171, 235);
+    
+    
+}
+.lorem{
+    color: rgb(255, 240, 240);
+    position: relative;
+   bottom: 1700px;
+   
+   margin: 15px;
+   padding: 1px 20px;
+ 
+}
+p{
+    position: relative;
+    top: 200px;
+    font-size: x-large;
+}
+.button{
+    position: relative;
+    top: 100px;
+    background-color: chocolate;
+}
+.app img{
+    width: 50px;
+    position: relative;
+    top: 310px;
+    left: 650px;
+margin: 50px;
+border-radius: 20px;
+cursor: pointer;
+border: 2px solid;
+padding: 3px;
+background-color: darkslateblue;
+border-color: rgb(27, 206, 206);
+
+    
+}
+.app{
+    display: flex;
+    border-color: aqua;
+}
+.click2{
+    display: flex;
+    position: relative;
+    left: 500px;
+    top: 190px;
+    
+}
+.new{
+   margin: 2px 10px;
+}
+.two{
+    padding: 50px;
+    cursor: pointer;
+    color:cyan;
+    font-size: large;
+    font-style: italic;
+    font-stretch: expanded;
+    
+}
+
+.newbox{
+    display: flex;  
+}
